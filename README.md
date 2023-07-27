@@ -4,11 +4,11 @@ Hi, I am **Aditya** and this is where you can view my diverse range of projects 
 ## Projects
 Here's a brief overview of the projects included in this portfolio:
 <br>
-## 1. Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)
-As part of the **KPMG** virtual internship, I successfully completed this data analytics project aimed at identifying new prospective customers for 'Sprocket Central Pty Ltd,' a leading cycle company. This project involved using **Microsoft Excel** for data cleaning and analysis, **composing a detailed e-mail** to communicate the findings to the client, **creating an informative presentation** outlining the work process and next steps, and developing an interactive **dashboard using Power BI to visualize the insights**.
-<br>
-## 2. Generating Revenue Insights for a Hotel Chain Using Power BI
+## 1. Generating Revenue Insights for a Hotel Chain Using Power BI
 In this project, I helped the hotel chain to understand its revenue decline by visualizing its KPIs using **Power BI** and **DAX.** The project was started by understanding the business requirements then transforming data in **Power Query**, followed by **Data Modeling** and building metrics using **DAX** and finally creating a **dashboard** for the stakeholders.
+<br>
+## 2. Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)
+As part of the **KPMG** virtual internship, I successfully completed this data analytics project aimed at identifying new prospective customers for 'Sprocket Central Pty Ltd,' a leading cycle company. This project involved using **Microsoft Excel** for data cleaning and analysis, **composing a detailed e-mail** to communicate the findings to the client, **creating an informative presentation** outlining the work process and next steps, and developing an interactive **dashboard using Power BI to visualize the insights**.
 <br>
 ## 3. Airline Data Analysis Using SQL and Python
 This project includes analysing an airline's data and helping them increase their profits by providing them insights about their margins, occupancy rates per aircraft, revenue trend, etc. This project was done on a **SQLite** database and **Python** packages and libraries such as numpy, pandas, seaborn, matplotlib.pyplot and sqlite3 were used to analyze and visualize the data.
