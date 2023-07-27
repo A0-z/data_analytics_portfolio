@@ -1,1 +1,2 @@
-# data_analytics_portfolio
+# Data Analytics Portfolio
+Hi, this is where you can view my data analytics projects. This repository showcases my diverse range of projects that demonstrate my expertise in data analtics, visualization, and problem-solving. As a passionate data analyst, I have utilized various tools and technologies including ** SQL, Power BI, Microsoft Excel, Python and Statistics **  to derive valuable insights and make data-driven decisions.
