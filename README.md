@@ -4,7 +4,7 @@ Hi, I am **Aditya** and this is where you can view my diverse range of projects 
 ## Projects
 Here's a brief overview of the projects included in this portfolio:
 <br>
-## 1. Generating Revenue Insights for a Hotel Chain Using Power BI
+## [1. Generating Revenue Insights for a Hotel Chain Using Power BI](https://github.com/A0-z/data_analytics_portfolio/tree/7e9d19fba0799c1213c8aeef5093af8636cce928/1.%20Generating%20Revenue%20Insights%20for%20a%20Hotel%20Chain%20Using%20Power%20BI)
 In this project, I helped the hotel chain to understand its revenue decline by visualizing its KPIs using **Power BI** and **DAX.** The project was started by understanding the business requirements then transforming data in **Power Query**, followed by **Data Modeling** and building metrics using **DAX** and finally creating a **dashboard** for the stakeholders.
 <br>
 ## 2. Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)
