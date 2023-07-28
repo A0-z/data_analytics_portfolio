@@ -7,7 +7,7 @@ Here's a brief overview of the projects included in this portfolio:
 ## [1. Generating Revenue Insights for a Hotel Chain Using Power BI](https://github.com/A0-z/data_analytics_portfolio/tree/7e9d19fba0799c1213c8aeef5093af8636cce928/1.%20Generating%20Revenue%20Insights%20for%20a%20Hotel%20Chain%20Using%20Power%20BI)
 In this project, I helped the hotel chain to understand its revenue decline by visualizing its KPIs using **Power BI** and **DAX.** The project was started by understanding the business requirements then transforming data in **Power Query**, followed by **Data Modeling** and building metrics using **DAX** and finally creating a **dashboard** for the stakeholders.
 <br>
-## 2. Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)
+## [2. Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)](https://github.com/A0-z/data_analytics_portfolio/tree/35e3f6bf4cd38d3979af99d8908be251e1ca8421/2.%20Identifying%20Prospective%20Customers%20for%20Sprocket%20Central%20Pty%20Ltd(KPMG))
 As part of the **KPMG** virtual internship, I successfully completed this data analytics project aimed at identifying new prospective customers for 'Sprocket Central Pty Ltd,' a leading cycle company. This project involved using **Microsoft Excel** for data cleaning and analysis, **composing a detailed e-mail** to communicate the findings to the client, **creating an informative presentation** outlining the work process and next steps, and developing an interactive **dashboard using Power BI to visualize the insights**.
 <br>
 ## 3. Airline Data Analysis Using SQL and Python
