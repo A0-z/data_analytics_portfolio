@@ -1,9 +1,11 @@
 This depository contains all files and links related to my project 'Sales Insights Using SQL and Power BI'.
-Here's the link for the Power BI dashboard created for the project: https://www.novypro.com/project/sales-insights-using-sql-and-power-bi
-I have also attached the origial Power BI file of the dashboard, the database used and a file containing all the SQL queries used for data analysis.
+* Here's the link for the Power BI dashboard created for the project: https://www.novypro.com/project/sales-insights-using-sql-and-power-bi
+* I have also attached the origial Power BI file of the dashboard, the database used and a file containing all the SQL queries used for data analysis.
 
-
-
+## About the project
+**Tools used: SQL, Power BI**
+**Database: MySQL**
+In this project, I analyzed the data of an IT hardware store
 
 
 
