@@ -13,7 +13,7 @@ As part of the **KPMG** virtual internship, I successfully completed this data a
 ## 3. Airline Data Analysis Using SQL and Python
 This project includes analysing an airline's data and helping them increase their profits by providing them insights about their margins, occupancy rates per aircraft, revenue trend, etc. This project was done on a **SQLite** database and **Python** packages and libraries such as numpy, pandas, seaborn, matplotlib.pyplot and sqlite3 were used to analyze and visualize the data.
 ## 4. A/B Testing( TikTok Views Data)
-This was a **Google Statistics** course end project in which I had to do a hypothesis test to find if there is a relationship between the account being verified and the associated videos' view counts. The hypothesis test was conducted with the help of Python packages such as scipy, numpy and pandas.
+This was a **Google Statistics** course end project in which I completed a hypothesis test to find if there is a relationship between the account being verified and the associated videos' view counts. The hypothesis test was conducted with the help of Python packages such as scipy, numpy and pandas.
 ## 5. Sales Insights Using SQL and Power BI
 This project included generating sales insights for an IT hardware store to improve its sales. The store's sales data was stored in a **MySQL** database.**ETA** was done on the data using **SQL** followed by data cleaning and dashboard building in **Power BI**.  
 ## 6. Analysing and Visualising Sales Data Using Excel
