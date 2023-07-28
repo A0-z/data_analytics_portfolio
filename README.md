@@ -12,7 +12,7 @@ As part of the **KPMG** virtual internship, I successfully completed this data a
 <br>
 ## [3. Airline Data Analysis Using SQL and Python](https://github.com/A0-z/data_analytics_portfolio/tree/1099ecd24d98b8c63481cbeb08f2c321f87029de/3.%20Airline%20Data%20Analysis%20Using%20SQL%20and%20Python)
 This project includes analysing an airline's data and helping them increase their profits by providing them insights about their margins, occupancy rates per aircraft, revenue trend, etc. This project was done on a **SQLite** database and **Python** packages and libraries such as numpy, pandas, seaborn, matplotlib.pyplot and sqlite3 were used to analyze and visualize the data.
-## 4. A/B Testing( TikTok Views Data)
+## [4. A/B Testing( TikTok Views Data)](https://github.com/A0-z/data_analytics_portfolio/tree/ece930b0b90f770bced98bf22dd926e71f3ade0f/4.%20AB%20Testing(%20TikTok%20Views%20Data))
 This was a **Google Statistics** course end project in which I completed a hypothesis test to find if there is a relationship between the account being verified and the associated videos' view counts. The hypothesis test was conducted with the help of Python packages such as scipy, numpy and pandas.
 ## [5. Sales Insights Using SQL and Power BI](https://github.com/A0-z/data_analytics_portfolio/tree/65af0272ce9d43b3a6bb22dd51f92df7cd559133/5.%20Sales%20Insights%20Using%20SQL%20and%20Power%20BI)
 This project included generating sales insights for an IT hardware store to improve its sales. The store's sales data was stored in a **MySQL** database.**ETA** was done on the data using **SQL** followed by data cleaning and dashboard building in **Power BI**.  
