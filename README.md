@@ -16,7 +16,7 @@ This project includes analysing an airline's data and helping them increase thei
 This was a **Google Statistics** course end project in which I completed a hypothesis test to find if there is a relationship between the account being verified and the associated videos' view counts. The hypothesis test was conducted with the help of Python packages such as scipy, numpy and pandas.
 ## 5. Sales Insights Using SQL and Power BI
 This project included generating sales insights for an IT hardware store to improve its sales. The store's sales data was stored in a **MySQL** database.**ETA** was done on the data using **SQL** followed by data cleaning and dashboard building in **Power BI**.  
-## 6. Analysing and Visualising Sales Data Using Excel
+## [6. Analysing and Visualising Sales Data Using Excel](https://github.com/A0-z/data_analytics_portfolio/tree/29107c88c32b2602ea503d22595dc6fd8c7999ce/6.%20Analysing%20and%20Visualising%20Sales%20Data%20Using%20Excel)
 This project included creating sales insights for a fashion store. The complete project was performed on **Microsoft Excel**. It included data cleaning, analysing and creating a dashboard.
 <br>
   <pre></pre>  Thank you for visiting my portfolio!
