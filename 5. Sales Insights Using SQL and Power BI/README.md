@@ -3,31 +3,13 @@ This depository contains all files and links related to my project 'Sales Insigh
 * I have also attached the origial Power BI file of the dashboard, the database used and a file containing all the SQL queries used for data analysis.
 
 ## About the project
-**Tools used: SQL, Power BI**
-**Database: MySQL**
-In this project, I analyzed the data of an IT hardware store
-
-
-
-
-
-
-
-
-
-
-
-This depository contains all files and links related to my project 'Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)'.
-
-Here's the link for the Power BI dashboard created for the project:https://www.novypro.com/project/kpmg-internship-dashboard-power-bi
-I have also attached the ppt made for the clients telling them about the work done on the dataset.
-The Excel file contains complete cleaned data and all pivot tables and charts.
-About the project
-This project was made during KPMG virtual internship for a bicycle company for them to understand their customers better and find new customers based on that.
-Tools used: Excel, PowerPoint, Power BI
-
+**Tools used: SQL, Power BI**<br>
+**Database: MySQL**<br>
+In this project, I analyzed the sales data of an IT hardware store and generated useful actionalbe insights to increase their business.
+<br><br>
 Process followed:
+* Data analysis using SQL
+* Data cleaning in Power BI
+* Creating dashboard
 
-Data quality assessment in Excel: The raw data provided had many inconsistencies like incompleteness, accuracy, relevancy, duplicate data, etc. that needed to be corrected.
-Finding insights: After preparing data, some insights were drawn from it like finding high-value customers based on their location, job type, age, etc. RFM method was used for this.
-Visualising the data using Power BI
+
