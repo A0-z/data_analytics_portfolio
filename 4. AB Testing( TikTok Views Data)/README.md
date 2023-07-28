@@ -1,4 +1,4 @@
-This depository contains all files related to my project 'A/B Testing( TikTok Views Data)'
+This depository contains all files related to my project **'A/B Testing( TikTok Views Data)'.**
 * A Jupyter notebook containing all details and code used in the hypothesis test.
 * A executive summary of the result.
 ## About the project:
