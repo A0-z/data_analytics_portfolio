@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Hi, I am **Aditya** and this is where you can view my diverse range of projects that demonstrate my expertise in **data analytics, visualization, and problem-solving**. As a passionate data analyst, I have utilized various tools and technologies including **SQL, Power BI, Microsoft Excel, Python and Statistics**  to derive valuable insights and make data-driven decisions.
+Hi, I am **Aditya** and this is where you can view my diverse range of projects that demonstrate my skills and experience in **data analytics, visualization, and problem-solving**. As a passionate data analyst, I have utilized various tools and technologies including **SQL, Power BI, Microsoft Excel, Python and Statistics**  to derive valuable insights and make data-driven decisions in all these projects.
 <br>
 ## Projects
 Here's a brief overview of the projects included in this portfolio:
