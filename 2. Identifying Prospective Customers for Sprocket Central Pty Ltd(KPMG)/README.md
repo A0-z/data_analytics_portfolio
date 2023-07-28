@@ -1,4 +1,4 @@
-This depository contains all files and links related to my project 'Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)'.<br>
+This depository contains all files and links related to my project **'Identifying Prospective Customers for Sprocket Central Pty Ltd(KPMG)'.** <br>
 
 * Here's the link for the Power BI dashboard created for the project:[https://www.novypro.com/project/kpmg-internship-dashboard-power-bi](https://www.novypro.com/project/kpmg-internship-dashboard-power-bi)<br>
 * I have also attached the ppt made for the clients telling them about the work done on the dataset.<br>
