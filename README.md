@@ -15,7 +15,7 @@ This project includes analysing an airline's data and helping them increase thei
 ## [4. A/B Testing( TikTok Views Data)](https://github.com/A0-z/data_analytics_portfolio/tree/ece930b0b90f770bced98bf22dd926e71f3ade0f/4.%20AB%20Testing(%20TikTok%20Views%20Data))
 This was a **Google Statistics** course end project in which I completed a hypothesis test to find if there is a relationship between the account being verified and the associated videos' view counts. The hypothesis test was conducted with the help of Python packages such as scipy, numpy and pandas.
 ## [5. Sales Insights Using SQL and Power BI](https://github.com/A0-z/data_analytics_portfolio/tree/65af0272ce9d43b3a6bb22dd51f92df7cd559133/5.%20Sales%20Insights%20Using%20SQL%20and%20Power%20BI)
-This project included generating sales insights for an IT hardware store to improve its sales. The store's sales data was stored in a **MySQL** database.**ETA** was done on the data using **SQL** followed by data cleaning and dashboard building in **Power BI**.  
+This project included generating sales insights for an IT hardware store to improve its sales. The store's sales data was stored in a **MySQL** database.**EDA** was performed on the data using **SQL** followed by data cleaning and dashboard building in **Power BI**.  
 ## [6. Analysing and Visualising Sales Data Using Excel](https://github.com/A0-z/data_analytics_portfolio/tree/29107c88c32b2602ea503d22595dc6fd8c7999ce/6.%20Analysing%20and%20Visualising%20Sales%20Data%20Using%20Excel)
 This project included creating sales insights for a fashion store. The complete project was performed on **Microsoft Excel**. It included data cleaning, analysing and creating a dashboard.
 <br>
